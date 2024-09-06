@@ -21,9 +21,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Redmomn&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC)
 
-[![](https://raw.githubusercontent.com/Redmomn/Redmomn/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/Redmomn/Redmomn/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Redmomn/Redmomn/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/Redmomn/Redmomn/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Redmomn/Redmomn/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
