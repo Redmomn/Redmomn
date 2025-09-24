@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redmomn&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Redmomn&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redmomn&theme=default"/>
 </p>
