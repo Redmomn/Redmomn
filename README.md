@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Redmomn&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" width="400px"/>
 </p>
 
+<p align="center">
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</p>
