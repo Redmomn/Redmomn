@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Redmomn&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redmomn&layout=compact" width="400px" />
 </p>
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redmomn&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
