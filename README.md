@@ -28,3 +28,9 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Redmomn&theme=default"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Redmomn&theme=default"/>
 </p>
+
+<p align="center">
+  <a href="https://holopin.io/@redmomn">
+    <img src="https://holopin.me/redmomn" alt="@redmomn's Holopin badges">
+  </a>
+</p>
