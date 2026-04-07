@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 -------
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Redmomn&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" width="400px"/>
 </p>
@@ -34,3 +35,4 @@ Here are some ideas to get you started:
     <img src="https://holopin.me/redmomn" alt="@redmomn's Holopin badges">
   </a>
 </p>
+-->
